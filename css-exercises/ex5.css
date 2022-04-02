@@ -1,0 +1,16 @@
+* {
+    font-family:Verdana, "Times New Roman", sans-serif;
+}
+
+p{
+    font-size: 24px;
+    font-weight:300;
+}
+
+.container .text{
+    text-align:center;
+    color:#ff0000;
+    background-color:#ffff00;
+    font-weight:bolder;
+    font-size:30px;
+}
